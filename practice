@@ -1,0 +1,13 @@
+------------------------------------------------------------------
+- modify the README file buy putting your name and date 
+- push it to your personal github account as master branch git 
+-----------------------------------------------------------------g-i
+- clone it back as a different user, configure git to the user'sls  name
+- create a sparate branch with the user's name
+- modifiy README file by putting the username and the position in it
+- push the branch to the remote repository
+-----------------------------------------------------------------
+- create another branch with "practice"
+- create a file named "practice" put random content in it
+- push back to the remote repvository
+- and merge the whole branches together to achieve a final code
